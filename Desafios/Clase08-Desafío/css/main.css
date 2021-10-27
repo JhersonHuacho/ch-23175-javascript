@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0 20%;
+}
+
+header {
+  height: 70px;
+  background-color: coral;
+}
+
+header span {
+  display: inline-block;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+table thead tr {
+  background-color: #009879;
+}
+
+table thead th:nth-child(1) {
+  width: 50px;
+}
+table thead th:nth-child(2) {
+  width: 150px;
+}
+table thead th:nth-child(3) {
+  width: 150px;
+}
+table thead th:nth-child(4) {
+  width: 150px;
+}
+table thead th:nth-child(5) {
+  width: 150px;
+}
