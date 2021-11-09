@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "prestamo": "6000",
+        "plazo": "12",
+        "tea": "52.87",
+        "calendario": [
+            {
+                "nroCuota": 0,
+                "capital": 0,
+                "interes": 0,
+                "cuota": 0,
+                "saldo": "6000.00"
+            },
+            {
+                "nroCuota": 1,
+                "capital": "408.56",
+                "interes": "216.00",
+                "cuota": "624.56",
+                "saldo": "5591.44"
+            },
+            {
+                "nroCuota": 2,
+                "capital": "423.27",
+                "interes": "201.29",
+                "cuota": "624.56",
+                "saldo": "5168.17"
+            },
+            {
+                "nroCuota": 3,
+                "capital": "438.51",
+                "interes": "186.05",
+                "cuota": "624.56",
+                "saldo": "4729.67"
+            },
+            {
+                "nroCuota": 4,
+                "capital": "454.29",
+                "interes": "170.27",
+                "cuota": "624.56",
+                "saldo": "4275.37"
+            },
+            {
+                "nroCuota": 5,
+                "capital": "470.65",
+                "interes": "153.91",
+                "cuota": "624.56",
+                "saldo": "3804.73"
+            },
+            {
+                "nroCuota": 6,
+                "capital": "487.59",
+                "interes": "136.97",
+                "cuota": "624.56",
+                "saldo": "3317.14"
+            },
+            {
+                "nroCuota": 7,
+                "capital": "505.14",
+                "interes": "119.42",
+                "cuota": "624.56",
+                "saldo": "2811.99"
+            },
+            {
+                "nroCuota": 8,
+                "capital": "523.33",
+                "interes": "101.23",
+                "cuota": "624.56",
+                "saldo": "2288.67"
+            },
+            {
+                "nroCuota": 9,
+                "capital": "542.17",
+                "interes": "82.39",
+                "cuota": "624.56",
+                "saldo": "1746.50"
+            },
+            {
+                "nroCuota": 10,
+                "capital": "561.69",
+                "interes": "62.87",
+                "cuota": "624.56",
+                "saldo": "1184.81"
+            },
+            {
+                "nroCuota": 11,
+                "capital": "581.91",
+                "interes": "42.65",
+                "cuota": "624.56",
+                "saldo": "602.91"
+            },
+            {
+                "nroCuota": 12,
+                "capital": "602.86",
+                "interes": "21.70",
+                "cuota": "624.56",
+                "saldo": "0.05"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "prestamo": "12000",
+        "plazo": "12",
+        "tea": "52.87",
+        "calendario": [
+            {
+                "nroCuota": 0,
+                "capital": 0,
+                "interes": 0,
+                "cuota": 0,
+                "saldo": "12000.00"
+            },
+            {
+                "nroCuota": 1,
+                "capital": "817.13",
+                "interes": "432.00",
+                "cuota": "1249.13",
+                "saldo": "11182.87"
+            },
+            {
+                "nroCuota": 2,
+                "capital": "846.55",
+                "interes": "402.58",
+                "cuota": "1249.13",
+                "saldo": "10336.32"
+            },
+            {
+                "nroCuota": 3,
+                "capital": "877.02",
+                "interes": "372.11",
+                "cuota": "1249.13",
+                "saldo": "9459.30"
+            },
+            {
+                "nroCuota": 4,
+                "capital": "908.60",
+                "interes": "340.53",
+                "cuota": "1249.13",
+                "saldo": "8550.71"
+            },
+            {
+                "nroCuota": 5,
+                "capital": "941.30",
+                "interes": "307.83",
+                "cuota": "1249.13",
+                "saldo": "7609.40"
+            },
+            {
+                "nroCuota": 6,
+                "capital": "975.19",
+                "interes": "273.94",
+                "cuota": "1249.13",
+                "saldo": "6634.21"
+            },
+            {
+                "nroCuota": 7,
+                "capital": "1010.30",
+                "interes": "238.83",
+                "cuota": "1249.13",
+                "saldo": "5623.91"
+            },
+            {
+                "nroCuota": 8,
+                "capital": "1046.67",
+                "interes": "202.46",
+                "cuota": "1249.13",
+                "saldo": "4577.24"
+            },
+            {
+                "nroCuota": 9,
+                "capital": "1084.35",
+                "interes": "164.78",
+                "cuota": "1249.13",
+                "saldo": "3492.89"
+            },
+            {
+                "nroCuota": 10,
+                "capital": "1123.39",
+                "interes": "125.74",
+                "cuota": "1249.13",
+                "saldo": "2369.51"
+            },
+            {
+                "nroCuota": 11,
+                "capital": "1163.83",
+                "interes": "85.30",
+                "cuota": "1249.13",
+                "saldo": "1205.68"
+            },
+            {
+                "nroCuota": 12,
+                "capital": "1205.73",
+                "interes": "43.40",
+                "cuota": "1249.13",
+                "saldo": "-0.05"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "prestamo": "6000",
+        "plazo": "4",
+        "tea": "52.87",
+        "calendario": [
+            {
+                "nroCuota": 0,
+                "capital": 0,
+                "interes": 0,
+                "cuota": 0,
+                "saldo": "6000.00"
+            },
+            {
+                "nroCuota": 1,
+                "capital": "1421.39",
+                "interes": "216.00",
+                "cuota": "1637.39",
+                "saldo": "4578.61"
+            },
+            {
+                "nroCuota": 2,
+                "capital": "1472.56",
+                "interes": "164.83",
+                "cuota": "1637.39",
+                "saldo": "3106.05"
+            },
+            {
+                "nroCuota": 3,
+                "capital": "1525.57",
+                "interes": "111.82",
+                "cuota": "1637.39",
+                "saldo": "1580.48"
+            },
+            {
+                "nroCuota": 4,
+                "capital": "1580.49",
+                "interes": "56.90",
+                "cuota": "1637.39",
+                "saldo": "-0.02"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "prestamo": "6000",
+        "plazo": "12",
+        "tea": "52.87",
+        "calendario": [
+            {
+                "nroCuota": 0,
+                "capital": 0,
+                "interes": 0,
+                "cuota": 0,
+                "saldo": "6000.00"
+            },
+            {
+                "nroCuota": 1,
+                "capital": "408.56",
+                "interes": "216.00",
+                "cuota": "624.56",
+                "saldo": "5591.44"
+            },
+            {
+                "nroCuota": 2,
+                "capital": "423.27",
+                "interes": "201.29",
+                "cuota": "624.56",
+                "saldo": "5168.17"
+            },
+            {
+                "nroCuota": 3,
+                "capital": "438.51",
+                "interes": "186.05",
+                "cuota": "624.56",
+                "saldo": "4729.67"
+            },
+            {
+                "nroCuota": 4,
+                "capital": "454.29",
+                "interes": "170.27",
+                "cuota": "624.56",
+                "saldo": "4275.37"
+            },
+            {
+                "nroCuota": 5,
+                "capital": "470.65",
+                "interes": "153.91",
+                "cuota": "624.56",
+                "saldo": "3804.73"
+            },
+            {
+                "nroCuota": 6,
+                "capital": "487.59",
+                "interes": "136.97",
+                "cuota": "624.56",
+                "saldo": "3317.14"
+            },
+            {
+                "nroCuota": 7,
+                "capital": "505.14",
+                "interes": "119.42",
+                "cuota": "624.56",
+                "saldo": "2811.99"
+            },
+            {
+                "nroCuota": 8,
+                "capital": "523.33",
+                "interes": "101.23",
+                "cuota": "624.56",
+                "saldo": "2288.67"
+            },
+            {
+                "nroCuota": 9,
+                "capital": "542.17",
+                "interes": "82.39",
+                "cuota": "624.56",
+                "saldo": "1746.50"
+            },
+            {
+                "nroCuota": 10,
+                "capital": "561.69",
+                "interes": "62.87",
+                "cuota": "624.56",
+                "saldo": "1184.81"
+            },
+            {
+                "nroCuota": 11,
+                "capital": "581.91",
+                "interes": "42.65",
+                "cuota": "624.56",
+                "saldo": "602.91"
+            },
+            {
+                "nroCuota": 12,
+                "capital": "602.86",
+                "interes": "21.70",
+                "cuota": "624.56",
+                "saldo": "0.05"
+            }
+        ]
+    }
+]
